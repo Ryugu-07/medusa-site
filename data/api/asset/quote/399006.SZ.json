@@ -1,1 +1,1 @@
-{"quotes":[],"missing_symbols":["399006.SZ"]}
+{"quotes":[{"symbol":"399006.SZ","display_name":"399006.SZ","display_name_zh":"创业板指","asset_class":"index","source":"yahoo_chart","currency":"CNY","last":2576.279,"previous_close":2544.73,"open":2493.72900390625,"high":2625.984619140625,"low":2493.666748046875,"volume":3141909875,"change":31.548999999999978,"change_pct":1.2397778939219477,"quote_at":"2026-11-05T04:01:19+00:00","fetched_at":"2026-11-05T04:17:08.153922+00:00","provider":"yahoo_chart","stale":false}],"missing_symbols":[]}
